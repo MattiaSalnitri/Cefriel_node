@@ -1,1 +1,1 @@
-# BIP_node.js
+# Example of node.js code for cefriel
